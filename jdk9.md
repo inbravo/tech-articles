@@ -92,3 +92,4 @@
  - [Dustin Marx on DZone](https://dzone.com/articles/jdk-9-is-feature-complete)
  - [JDK9 Feature Extension Complete](http://openjdk.java.net/projects/jdk9/#Feature_Extension_Complete)
  - [Mark Rreinhold Accouncement](http://mail.openjdk.java.net/pipermail/jdk9-dev/2017-January/005505.html)
+ - [JDK 9 Memory Order Modes described by Doug Lea](http://gee.cs.oswego.edu/dl/html/j9mm.html)
