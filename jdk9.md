@@ -84,4 +84,11 @@
    <li><a href="http://openjdk.java.net/jeps/256" rel="nofollow" target="_blank">256: BeanInfo Annotations</a></li> 
    <li><a href="http://openjdk.java.net/jeps/260" rel="nofollow" target="_blank">260: Encapsulate Most Internal APIs</a></li> 
    <li><a href="http://openjdk.java.net/jeps/274" rel="nofollow" target="_blank">274: Enhanced Method Handles</a></li> 
-   <li><a href="http://openjdk.java.net/jeps/295" rel="nofollow" target="_blank">295: Ahead-of-Time Compilation</a>
+   <li><a href="http://openjdk.java.net/jeps/295" rel="nofollow" target="_blank">295: Ahead-of-Time Compilation</a></li>
+   </ul></li>
+ </ul>    
+ 
+ ## References
+ - [Dustin Marx on DZone](https://dzone.com/articles/jdk-9-is-feature-complete)
+ - [JDK9 Feature Extension Complete](http://openjdk.java.net/projects/jdk9/#Feature_Extension_Complete)
+ - [Mark Rreinhold Accouncement](http://mail.openjdk.java.net/pipermail/jdk9-dev/2017-January/005505.html)
