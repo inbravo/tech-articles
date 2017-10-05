@@ -1,6 +1,6 @@
 #	Multidimensional Scalability Capabilities 
 
-Industry is gradually moving away from the days when operational capabilities were solely in the hands of bunch of operation engineers, who were sitting in front of large screens, watching log consoles and monitoring tools, and undesirably waiting for a scalability bottleneck to arise, before applying a predefined remedy.
+Industry is gradually moving away from the days when operational capabilities were solely in the hands of bunch of operation engineers, who were sitting in front of large screens, keeping an eye on system health, and undesirably waiting for a scalability bottleneck to arise, before applying a predefined remedy.
 
 Twenty four hours constant running processes, which are vertically scalable but only through manual interventions. All time available hardwares, which are horizontally scalable but only with manual efforts. Every operational change to cater larger volume demands, must go through time consuming, capability building cycles.
 
@@ -17,4 +17,4 @@ It requires an operation management system, to constantly monitor the existing e
 -	Z-axis scaling is used to scale data storage mostly. Data is partitioned across several machines on a whole cluster.
 
 There are various scalability capabilities, which are relevant for building a truly scalable system. These 3P (People/Process/Platform) capabilities are described below.
-![](/images/mdsc.png)
+![](https://github.com/inbravo/tech-articles/blob/master/dzone/images/mdsc.png)
