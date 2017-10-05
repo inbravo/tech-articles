@@ -19,3 +19,5 @@ It requires an operation management system, to constantly monitor the existing e
 There are various scalability capabilities, which are relevant for building a truly scalable system. These 3P (People/Process/Platform) capabilities are described below.
 
 ![](https://github.com/inbravo/tech-articles/blob/master/dzone/images/mdsc.png)
+
+Detailed [list](https://github.com/inbravo/tech-articles/blob/master/dzone/docs/mdsc.pdf) of all capabilities. These capabilities are applicable for organizations with self managed operations. The next in series will be scalability capabilities for clouds. 
