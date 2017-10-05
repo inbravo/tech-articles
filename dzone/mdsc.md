@@ -17,4 +17,5 @@ It requires an operation management system, to constantly monitor the existing e
 -	Z-axis scaling is used to scale data storage mostly. Data is partitioned across several machines on a whole cluster.
 
 There are various scalability capabilities, which are relevant for building a truly scalable system. These 3P (People/Process/Platform) capabilities are described below.
+
 ![](https://github.com/inbravo/tech-articles/blob/master/dzone/images/mdsc.png)
