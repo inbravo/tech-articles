@@ -1,6 +1,6 @@
 #	Multidimensional Scalability Capabilities 
 
-Industry is gradually moving away from the days when operational capabilities were solely in the hands of bunch of operation engineers, who were sitting in front of large screens, keeping an eye on system health, and undesirably waiting for a scalability bottleneck to arise, before applying a predefined remedy.
+IT industry is gradually moving away from the days when operational capabilities were solely in the hands of bunch of operation engineers. The reactive approach of sitting in front of large screens, monitoring system health, and waiting for a bottleneck to arise, before applying a predefined remedy, is now being replaced by a smarter, proactive approach. 
 
 Twenty four hours constant running processes, which are vertically scalable but only through manual interventions. All time available hardwares, which are horizontally scalable but only with manual efforts. Every operational change to cater larger volume demands, must go through time consuming, capability building cycles.
 
